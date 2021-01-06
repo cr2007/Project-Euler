@@ -9,3 +9,5 @@ The intended audience include students for whom the basic curriculum is not feed
 
 ## Can anyone solve the problems?
 The [problems](https://projecteuler.net/archives) range in difficulty and for many the experience is inductive chain learning. That is, by solving one problem it will expose you to a new concept that allows you to undertake a previously inaccessible problem. So the determined participant will slowly but surely work his/her way through every problem.
+
+> *"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."*
