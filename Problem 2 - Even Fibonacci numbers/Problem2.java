@@ -2,9 +2,9 @@ import java.util.Scanner;
 public class Problem2 {
 
 	public static void main(String[] args) {
-    //1,2,3,5,8....
+    	//1,2,3,5,8....
 		// scanner used to read the limit value from user
-		Scanner scan=new Scanner(System.in);
+		Scanner scan = new Scanner(System.in);
 		System.out.print("Enter the limit for the array");
 		int limit=scan.nextInt();
 		double[]number=new double[limit];
@@ -17,19 +17,17 @@ public class Problem2 {
 		System.out.println(number[1]);	
 		
 		//for loop to add elements to the array
-		for(int i=2;i<limit;i++)
-		{ 
+		for(int i=2;i<limit;i++){ 
 			number[i]=number[i-1]+number[i-2];
-		System.out.println(number[i]);
+			System.out.println(number[i]);
 		}
 		double sum=0;
 		//read the array
-		for(int i=0;i<limit;i++)
-		{
-		if(number[i]%2==0) // condition to check if it is even
-		sum=sum+number[i];
+		for(int i=0;i<limit;i++){
+			if(number[i]%2==0) // condition to check if it is even
+			sum=sum+number[i];
 		}
 		System.out.println("The sum is:"+sum);
-    }
+	}
 
 }
