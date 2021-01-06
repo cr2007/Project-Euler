@@ -1,4 +1,5 @@
-# Problem 3 - Largest Prime Factor
+# [Problem](https://projecteuler.net/problem=3) No. 3
+## Largest Prime Factor
 
 The prime factors of 13195 are 5, 7, 13 and 29.
 
