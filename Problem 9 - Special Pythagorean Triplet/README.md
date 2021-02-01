@@ -2,13 +2,12 @@
 
 ## Special Pythagorean Triplet
 
-A **Pythagorean triplet** is a set of three natural numbers, $`a < b < c`$, for which,
+A **Pythagorean triplet** is a set of three natural numbers, <img src="https://render.githubusercontent.com/render/math?math=\large a < b < c">, for which,
 
-```math
-a^2 + b^2 = c^2
-```
-For example, $`3^2 + 4^2 = 9 + 16 = 25 = 5^2`$.
+<img src="https://render.githubusercontent.com/render/math?math=\large a^2 %2B b^2 = c^2">
 
-There exists exactly one Pythagorean triplet for which $`a + b + c = 1000`$.
+For example, <img src="https://render.githubusercontent.com/render/math?math=\large 3^2 %2B 4^2 = 9 %2B 16 = 25 = 5^2">.
 
-Find the product $`abc`$.
+There exists exactly one Pythagorean triplet for which <img src="https://render.githubusercontent.com/render/math?math=\large a %2B b %2B c = 1000">.
+
+Find the product <img src="https://render.githubusercontent.com/render/math?math=\large abc">.
