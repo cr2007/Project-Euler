@@ -5,9 +5,11 @@ public class Problem2 {
     	//1,2,3,5,8....
 		// scanner used to read the limit value from user
 		Scanner scan = new Scanner(System.in);
-		System.out.print("Enter the limit for the array");
-		int limit=scan.nextInt();
-		double[]number=new double[limit];
+
+		System.out.print("Enter the limit for the array"); //Prompt to make the user enter the value
+		int limit=scan.nextInt(); //Integer Variable declared based on the user's input
+
+		double[] number=new double[limit]; //Array creation based on the 'limit' variable
 		
 		//the first two array elements are added
 		number[0]=1;

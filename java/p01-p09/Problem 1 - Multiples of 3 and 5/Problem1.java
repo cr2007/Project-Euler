@@ -1,13 +1,18 @@
-public class Problem1_Multiples_of_3_and_5 {
+public class Problem1 {
 
 	public static void main(String[] args) {
+		//Declaring the result variable
 		int multiples = 0;
-		for(int i=1; i<1000; i++) {
+
+		//For loop to add up the multiples of 3 and 5
+		for(int i=1; i<1000; i++) { //Limiting the For Loop to first 1000 numbers
+
+			//Condition to filter out the multiples of 3 and 5
 			if((i % 3 == 0) || (i % 5 == 0))
-				multiples += i;
+				multiples += i; //Adding the multiples into the variable
 		}
+
+		//Print the final value
 		System.out.println(multiples);
-
 	}
-
 }
