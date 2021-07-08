@@ -4,7 +4,7 @@
 
 The following iterative sequence is defined for the set of positive integers:
 
-_n_ → <img style="background: white;" src="https://render.githubusercontent.com/render/math?math=\frac{n}{2}"> (_n_ is even)
+_n_ → <img style="background: white;" src="https://render.githubusercontent.com/render/math?math=\frac{n}{\text{2}}"> (_n_ is even)
 
 _n_ → <img style="background: white;" src="https://render.githubusercontent.com/render/math?math=\text{3}n+%2B+1"> (_n_ is odd)<br>
 Using the rule above and starting with 13, we generate the following sequence:
