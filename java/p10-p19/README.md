@@ -6,9 +6,9 @@ This folder contains the problems 10 to 19
 - [Largest Product in a Grid](https://github.com/cr2007/Project-Euler/tree/main/java/p10-p19/Problem%2011%20-%20Largest%20Product%20in%20a%20Grid)
 - [Highly Divisible Triangular Number](https://github.com/cr2007/Project-Euler/tree/main/java/p10-p19/Problem%2012%20-%20Highly%20Divisible%20Triangular%20Number)
 - [Large Sum](https://github.com/cr2007/Project-Euler/tree/main/java/p10-p19/Problem%2013%20-%20Large%20Sum)
-- Longest Collatz Sequence
-- Lattice Paths
-- Power Digit Sum
-- Number Letter Counts
-- Maximum Path Sum I
-- Counting Sundays
+- [Longest Collatz Sequence](https://github.com/cr2007/Project-Euler/tree/main/java/p10-p19/Problem%2014%20-%20Longest%20Collatz%20Sequence)
+- [Lattice Paths](https://github.com/cr2007/Project-Euler/tree/main/java/p10-p19/Problem%2015%20-%20Latice%20Paths)
+- [Power Digit Sum](https://github.com/cr2007/Project-Euler/tree/main/java/p10-p19/Problem%2016%20-%20Power%20Digit%20Sum)
+- [Number Letter Counts](https://github.com/cr2007/Project-Euler/tree/main/java/p10-p19/Problem%2017%20-%20Number%20letter%20counts)
+- [Maximum Path Sum I](https://github.com/cr2007/Project-Euler/tree/main/java/p10-p19/Problem%2018%20-%20Maximum%20Path%20Sum%201)
+- [Counting Sundays](https://github.com/cr2007/Project-Euler/tree/main/java/p10-p19/Problem%2019%20-%20Counting%20Sundays)
