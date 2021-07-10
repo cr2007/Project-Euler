@@ -1,14 +1,12 @@
 public class Problem9 {
     
-  
-    
 	public static void main(String[] args) {
         
         //Declaring the 3 variables
         int a;
         int b;
         int c;
-        int sum = 1000;
+        int sum = 1000; //Declaring the Sum Variable
 
         //This for loop checks all the numbers from 1 to sum (1000)
         for(a = 1; a <= sum/3; a++){ //For loop to determine the value of 'a'
