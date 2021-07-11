@@ -1,4 +1,4 @@
-public class Problem1_Multiples_of_3_and_5 {
+public class Problem1 {
 
 	public static void main(String[] args) {
 		int multiples = 0;
