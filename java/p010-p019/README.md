@@ -11,4 +11,4 @@ This folder contains the problems 10 to 19
 16. [Power Digit Sum](https://github.com/cr2007/Project-Euler/tree/main/java/p010-p019/Problem%2016%20-%20Power%20Digit%20Sum)
 17. [Number Letter Counts](https://github.com/cr2007/Project-Euler/tree/main/java/p010-p019/Problem%2017%20-%20Number%20letter%20counts)
 18. [Maximum Path Sum I](https://github.com/cr2007/Project-Euler/tree/main/java/p010-p019/Problem%2018%20-%20Maximum%20Path%20Sum%201)
-19. [Counting Sundays](https://github.com/cr2007/Project-Euler/tree/main/java/p010-p019/Problem%2019%20-%20Counting%20Sundays))
+19. [Counting Sundays](https://github.com/cr2007/Project-Euler/tree/main/java/p010-p019/Problem%2019%20-%20Counting%20Sundays)
