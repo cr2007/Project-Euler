@@ -8,4 +8,4 @@ Similarly we can work from right to left: 3797, 379, 37, and 3.
 
 Find the sum of the only eleven primes that are both truncatable from left to right and right to left.
 
-NOTE: 2, 3, 5, and 7 are not considered to be truncatable primes.
+**NOTE:** 2, 3, 5, and 7 are not considered to be truncatable primes.
