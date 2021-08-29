@@ -17,4 +17,4 @@ A unit fraction contains 1 in the numerator. The decimal representation of the u
 
 Where 0.1(6) means 0.166666..., and has a 1-digit recurring cycle. It can be seen that <sup>1</sup>/<sub>7</sub> has a 6-digit recurring cycle.
 
-Find the value of _d_ < 1000 for which <sup>1</sup>/<sub><i>d</i></sub> contains the longest recurring cycle in its decimal fraction part.
+Find the value of <var>d</var> < 1000 for which <sup>1</sup>/<sub><var>d</var></sub> contains the longest recurring cycle in its decimal fraction part.
