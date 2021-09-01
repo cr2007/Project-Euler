@@ -2,7 +2,7 @@
 
 This folder contains the problems 40 to 49
 
-40. [Champernowne's Constant](java/p040-p049/Problem%2040%20-%20Champernowne's%20Constant)
+40. [Champernowne's Constant](Problem%2040%20-%20Champernowne's%20Constant)
 41. [Pandigital Prime]()
 42. [Coded Triangle Numbers]())
 43. [Sub-string Divisibility]()
