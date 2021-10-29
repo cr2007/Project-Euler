@@ -4,6 +4,8 @@ Problems from the [Project Euler Website](https://projecteuler.net/)
 
 **Project Euler** is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
 
+If you want to solve any of the given problems, just fork the project, write your code, and if it works, set up a [Pull Request](https://github.com/cr2007/Project-Euler/pulls) to merge it with the main branch.
+
 ## Who are the problems aimed at?
 The intended audience include students for whom the basic curriculum is not feeding their hunger to learn, adults whose background was not primarily mathematics but had an interest in things mathematical, and professionals who want to keep their problem solving and mathematics on the cutting edge.
 
