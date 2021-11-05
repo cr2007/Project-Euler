@@ -22,7 +22,7 @@ If two players have the same ranked hands then the rank made up of the highest v
 
 Consider the following five hands dealt to two players:
 
-<div class="center">
+<div>
     <table>
         <tr>
             <td>
