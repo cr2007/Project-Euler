@@ -9,6 +9,6 @@ This folder contains the problems 60 to 69
 64. [Odd Period Square Roots](Problem%2064%20-%20Odd%20Period%20Square%20Roots)
 65. [Convergents of e](Problem%2065%20-%20Convergents%20of%20e)
 66. [Diophantine Equation](Problem%2066%20-%20Diophantine%20Equation)
-67. [Maximum Path Sum II](Problem%2067%20-%20Maximum%20Path%20Sum%20II)
+67. [Maximum Path Sum 2](Problem%2067%20-%20Maximum%20Path%20Sum%202)
 68. [Magic 5-gon Ring](Problem%2068%20-%20Magic%205-gon%20Ring)
 69. [Totient Maximum](Problem%2069%20-%20Totient%20Maximum) <!-- Nice -->
