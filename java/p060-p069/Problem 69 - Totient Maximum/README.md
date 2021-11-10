@@ -1,4 +1,5 @@
 # [Problem](https://projecteuler.net/problem=69) No. 69
+<!-- Nice -->
 
 ## Totient Maximum
 
@@ -70,6 +71,6 @@ For example, as 1, 2, 4, 5, 7, and 8, are all less than nine and relatively prim
 </table>
 <br>
 
-It can be seen that <var>n</var> = 6 produces a maximum <var>n</var>/φ(<var>n</var>) for <var>n</var> ≤ 10.disc
+It can be seen that <var>n</var> = 6 produces a maximum <var>n</var>/φ(<var>n</var>) for <var>n</var> ≤ 10.
 
 Find the value of <var>n</var> ≤ 1,000,000 for which <var>n</var>/φ(<var>n</var>) is a maximum.
