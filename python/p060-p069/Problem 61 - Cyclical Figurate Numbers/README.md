@@ -7,9 +7,9 @@ Triangle, square, pentagonal, hexagonal, heptagonal, and octagonal numbers are a
 <table>
     <tr>
         <td>Triangle</td>
-        <td><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=P_%7B3%2C%20n%7D%20%3D%20%5Cfrac%7Bn%20(n%2B1)%7D%7B2%7D%0D"></td>
+        <td><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=P_%7B3%2C%20n%7D%20%3D%20%5Cdfrac%7Bn%20(n%2B1)%7D%7B2%7D%0D"></td>
         <!-- $$
-        P_{3, n} = \frac{n (n+1)}{2}
+        P_{3, n} = \dfrac{n (n+1)}{2}
         $$ --> 
         <td>1, 3, 6, 10, 15, ...</td>
     </tr>
@@ -20,9 +20,9 @@ Triangle, square, pentagonal, hexagonal, heptagonal, and octagonal numbers are a
     </tr>
     <tr>
         <td>Pentagonal</td>
-        <td><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=P_%7B5%2C%20n%7D%20%3D%20%5Cfrac%7Bn%20(3n%20-%201)%7D%7B2%7D%0D"></td>
+        <td><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=P_%7B5%2C%20n%7D%20%3D%20%5Cdfrac%7Bn%20(3n%20-%201)%7D%7B2%7D%0D"></td>
         <!-- $$
-        P_{5, n} = \frac{n (3n - 1)}{2}
+        P_{5, n} = \dfrac{n (3n - 1)}{2}
         $$ -->
         <td>1, 5, 12, 22, 35, ...</td>
     </tr>
@@ -33,9 +33,9 @@ Triangle, square, pentagonal, hexagonal, heptagonal, and octagonal numbers are a
     </tr>
     <tr>
         <td>Heptagonal</td>
-        <td><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=P_%7B7%2C%20n%7D%20%3D%20%5Cfrac%7Bn(5n%20-%203)%7D%7B2%7D%0D"></td>
+        <td><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=P_%7B7%2C%20n%7D%20%3D%20%5Cdfrac%7Bn(5n%20-%203)%7D%7B2%7D%0D"></td>
         <!-- $$
-        P_{7, n} = \frac{n(5n - 3)}{2}
+        P_{7, n} = \dfrac{n(5n - 3)}{2}
         $$ -->
         <td>1, 7, 18, 34, 55, ...</td>
     </tr>
