@@ -15,4 +15,4 @@ The [problems](https://projecteuler.net/archives) range in difficulty and for ma
 > *"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."*
 
 ### Questions Added:<br>
-![10%](https://progress-bar.dev/10) 79/776 questions
+![11%](https://progress-bar.dev/11) 89/778 questions
