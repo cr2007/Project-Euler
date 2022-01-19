@@ -1,2 +1,14 @@
+## Ignoring all C (compiled) executable files
+
+# Ignores all the files
+*
+# Don't ignore any filename with an extension (.)
+!*.*
+# Do NOT blacklist any directory (/)
+!*/
+
+# Untracks executable C files
+a.out
+
 # The VS Code config files
 .vscode
