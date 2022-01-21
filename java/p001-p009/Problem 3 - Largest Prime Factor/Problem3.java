@@ -7,16 +7,16 @@ public class Problem3 {
 	}
 
 	public static long largestPrimeFactor(long n) {
-		//Number Check
+		// Number Check
 		if (n <= 1) {
 			return 0;
 		} else {
 			int div = 2;
-			while (div < n/2) {
-				//Factor Check
+			while (div < n / 2) {
+				// Factor Check
 				if (n % div != 0) {
 					div++;
-				//Prime Check
+				// Prime Check
 				} else {
 					n = n / div;
 					div = 2;

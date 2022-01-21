@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Problem2 {
 
 	public static void main(String[] args) {
-    	//1,2,3,5,8....
+		//1,2,3,5,8....
 		// scanner used to read the limit value from user
 		Scanner scan = new Scanner(System.in);
 
@@ -10,16 +10,16 @@ public class Problem2 {
 		int limit=scan.nextInt(); //Integer Variable declared based on the user's input
 
 		double[] number=new double[limit]; //Array creation based on the 'limit' variable
-		
+
 		//The first two array elements are added
 		number[0]=1;
 		number[1]=2;
 		System.out.println("The elements of the fibonacci series are");
 		System.out.println(number[0]);
-		System.out.println(number[1]);	
-		
+		System.out.println(number[1]);
+
 		//For loop to add elements to the array
-		for(int i=2;i<limit;i++){ 
+		for(int i=2;i<limit;i++){
 			number[i]=number[i-1]+number[i-2];
 			System.out.println(number[i]);
 		}
