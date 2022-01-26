@@ -2,12 +2,12 @@
 
 ## Special Pythagorean Triplet
 
-A **Pythagorean triplet** is a set of three natural numbers, <img src="https://render.githubusercontent.com/render/math?math=\large a < b < c">, for which,
+A **Pythagorean triplet** is a set of three natural numbers, <img style="background-color:white;" src="https://render.githubusercontent.com/render/math?math=\large a < b < c">, for which,
 
-<img src="https://render.githubusercontent.com/render/math?math=\large a^2 %2B b^2 = c^2">
+<img style="background-color:white;" src="https://render.githubusercontent.com/render/math?math=\large a^2 %2B b^2 = c^2">
 
-For example, <img src="https://render.githubusercontent.com/render/math?math=\large 3^2 %2B 4^2 = 9 %2B 16 = 25 = 5^2">.
+For example, <img style="background-color:white;" src="https://render.githubusercontent.com/render/math?math=\large 3^2 %2B 4^2 = 9 %2B 16 = 25 = 5^2">.
 
-There exists exactly one Pythagorean triplet for which <img src="https://render.githubusercontent.com/render/math?math=\large a %2B b %2B c = 1000">.
+There exists exactly one Pythagorean triplet for which <img style="background-color:white;" src="https://render.githubusercontent.com/render/math?math=\large a %2B b %2B c = 1000">.
 
-Find the product <img src="https://render.githubusercontent.com/render/math?math=\large abc">.
+Find the product <img style="background-color:white;" src="https://render.githubusercontent.com/render/math?math=\large abc">.

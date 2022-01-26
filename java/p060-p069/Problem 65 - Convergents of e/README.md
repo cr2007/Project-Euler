@@ -8,7 +8,7 @@ The square root of 2 can be written as an infinite continued fraction.
 
 <!-- $$
 \sqrt{2} = 1 + \dfrac{1}{2 + \dfrac{1}{2+\dfrac{1}{2+\dfrac{1}{2+...}}}}
-$$ --> 
+$$ -->
 
 The infinite continued fraction can be written, <img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Csqrt%7B2%7D%20%3D%20%5B1%3B%5C%20(2)%5D%2C%5C%20(2)%0D"> indicates that 2 repeats *ad infinitum* (i.e. forever).<br>
 In a similar way, <img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Csqrt%7B23%7D%20%3D%20%5B4%3B%5C%20(1%2C3%2C1%2C8)%5D%0D"> .
@@ -26,7 +26,7 @@ Let us consider the convergents for <img style="background: white;" src="https:/
 
 <!-- $$
 \sqrt{2}
-$$ --> 
+$$ -->
 
 <img style="background: white;" src="https://render.githubusercontent.com/render/math?math=1%2B%5Cdfrac%7B1%7D%7B2%7D%20%3D%20%5Cdfrac%7B3%7D%7B2%7D%0D">
 <br>
@@ -34,7 +34,7 @@ $$ -->
 
 <!-- $$
 1+\dfrac{1}{2} = \dfrac{3}{2}
-$$ --> 
+$$ -->
 
 <img style="background: white;" src="https://render.githubusercontent.com/render/math?math=1%20%2B%20%5Cdfrac%7B1%7D%7B2%20%2B%20%5Cdfrac%7B1%7D%7B2%7D%7D%20%3D%20%5Cdfrac%7B7%7D%7B5%7D%0D">
 <br>
@@ -58,7 +58,7 @@ $$ -->
 
 <!-- $$
 1 + \dfrac{1}{2 + \dfrac{1}{2 + \dfrac{1}{2+\dfrac{1}{2}}}} = \dfrac{41}{29}
-$$ --> 
+$$ -->
 
 Hence the sequence of the first ten convergents for <img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Csqrt%7B2%7D%0D"> are:
 
@@ -67,7 +67,7 @@ Hence the sequence of the first ten convergents for <img style="background: whit
 <br>
 <!-- $$
 1, \dfrac{3}{2}, \dfrac{7}{5}, \dfrac{17}{12}, \dfrac{41}{29}, \dfrac{99}{70}, \dfrac{239}{169}, \dfrac{577}{408}, \dfrac{1393}{985}, \dfrac{3363}{2378},\ ...
-$$ --> 
+$$ -->
 
 What is most surprising is that the important mathematical constant,
 
@@ -79,7 +79,7 @@ What is most surprising is that the important mathematical constant,
 e = [2;\ 1, 2, 1, 1, 4, 1, 1, 6, 1,\ ...\ ,1, 2k, 1,\ ...]
 $$ -->
 
-The first ten terms in the sequence of convergents for <img src="https://render.githubusercontent.com/render/math?math=e%0D"> are:
+The first ten terms in the sequence of convergents for <img style="background-color:white;" src="https://render.githubusercontent.com/render/math?math=e%0D"> are:
 
 <!-- $$
 e
@@ -93,7 +93,7 @@ $$ -->
 
 The sum of digits in the numerator of the 10<sup>th</sup> convergent is 1 + 4 + 5 + 7 = 17 .
 
-Find the sum of digits in the numerator of the 100<sup>th</sup> convergent of the continued dfraction for <img src="https://render.githubusercontent.com/render/math?math=e%0D">.
+Find the sum of digits in the numerator of the 100<sup>th</sup> convergent of the continued dfraction for <img style="background-color:white;" src="https://render.githubusercontent.com/render/math?math=e%0D">.
 
 <!-- $$
 e
