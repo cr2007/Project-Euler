@@ -24,4 +24,4 @@ The optimum set for <var>n</var> = 6 is A = {11, 18, 19, 20, 22, 25}, with S(A) 
 
 Given that A is an optimum special sum set for <var>n</var> = 7, find its set string.
 
-##### NOTE: This problem is related to [Problem 105](../Problem%20105%20-%20Special%20Subset%20Sums%3A%20Testing) and [Problem 106](../Problem%20106%20-%20Special%20Subset%20Sums%3A%20Meta-Testing)
+##### NOTE: This problem is related to [Problem 105](..%5CProblem%20105%20-%20Special%20Subset%20Sums-Testing) and [Problem 106](../Problem%20106%20-%20Special%20Subset%20Sums-Meta-Testing)
