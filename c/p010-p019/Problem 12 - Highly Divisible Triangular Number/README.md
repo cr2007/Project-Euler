@@ -8,8 +8,6 @@ $$
 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ...
 $$
 
-<!-- <img style="background-color:white;" src="https://render.githubusercontent.com/render/math?math=\large 1, 3, 6, 10, 15, 21, 28, 36, 45, 55, ..."> -->
-
 Let us list the factors of the first seven triangle numbers:
 
 **1**: 1<br>
