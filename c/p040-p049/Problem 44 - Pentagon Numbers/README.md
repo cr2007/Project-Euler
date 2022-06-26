@@ -8,10 +8,6 @@ $$
 P_n = \dfrac{n(3n-1)}{2}
 $$
 
-<!-- <div align="center">
-    <img style="background: white;" src="https://render.githubusercontent.com/render/math?math=P_n%20%3D%20%5Cdfrac%7Bn(3n-1)%7D%7B2%7D%0D">
-</div> -->
-
 The firt ten pentagonal numbers are:
 <div align="center">
     1, 5, 12, 22, 35, 51, 70, 92, 117, 145, ...
