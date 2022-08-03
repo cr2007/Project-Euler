@@ -24,4 +24,4 @@ $$
 
 What is the least value of <var>n</var> for which the number of distinct solutions exceeds one-thousand?
 
-#### NOTE: This problem is an easier version of Problem 110 <!-- TODO -->; it is strongly advised that you solve this one first.
+#### NOTE: This problem is an easier version of [Problem 110](../../p110-p119/Problem%20110%20-%20Diophantine%20Reciprocals%20II); it is strongly advised that you solve this one first.
