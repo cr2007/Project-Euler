@@ -17,4 +17,4 @@ So the determined participant will slowly but surely work his/her way through ev
 > *"Project Euler exists to encourage, challenge, and develop the skills and enjoyment of anyone with an interest in the fascinating world of mathematics."*
 
 ### Questions Added:<br>
-![13%](https://progress-bar.dev/13) 109/800 questions
+![14%](https://progress-bar.dev/14) 119/806 questions
