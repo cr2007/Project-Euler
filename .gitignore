@@ -12,3 +12,6 @@ a.out
 
 # The VS Code config files
 .vscode
+
+# Local History (VS Code exhr
+.history
