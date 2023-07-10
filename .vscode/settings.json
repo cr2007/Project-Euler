@@ -1,9 +1,9 @@
 {
-    "java.project.sourcePaths": [
-        "java/p050-p059/Problem 53 - Combinatoric Selections",
-        "java/p001-p009/Problem 3 - Largest Prime Factor",
-        "java/p001-p009/Problem 2 - Even Fibonacci numbers",
-        "java/p001-p009/Problem 1 - Multiples of 3 and 5",
-        "java/p001-p009/Problem 9 - Special Pythagorean Triplet"
-    ]
+	
+	"files.trimTrailingWhitespace": true,
+	"editor.indentSize": "tabSize",
+	"editor.tabSize": 4,
+	"editor.bracketPairColorization.enabled": true,
+	"editor.minimap.scale": 2,
+	"editor.wordWrap": "on"
 }
