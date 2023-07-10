@@ -21,5 +21,12 @@
 			"openFiles": [ "README.md" ]
 		}
 	},
-	"onCreateCommand": ""
+	"features": {
+		"ghcr.io/devcontainers/features/java:1": {
+			"jdkDistro": "oracle", // Installs the Oracle Distribution of Java Development Kit (JDK)
+			"installGradle": true, // Installs Gradle
+			"installMaven": true,  // Installs Maven
+			"installAnt": true     // Installs Ant
+		}
+	}
 }
