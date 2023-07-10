@@ -1,0 +1,16 @@
+{
+	"recommendations": [
+		"vscjava.vscode-java-pack", // Java Extension Pack
+		"ms-python.python", // Python Extension
+		"ms-vscode.cpptools-extension-pack",
+		// IntelliCode
+		"VisualStudioExptTeam.vscodeintellicode",
+		"VisualStudioExptTeam.intellicode-api-usage-examples",
+		"eamodio.gitlens", // Gitlens
+		"mhutchie.git-graph", // Git Graph
+		"EditorConfig.EditorConfig",
+		"bierner.github-markdown-preview",
+		"vscode-icons-team.vscode-icons",
+		"aaron-bond.better-comments"
+	]
+}
