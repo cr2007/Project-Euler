@@ -1,0 +1,23 @@
+{
+	"name": "Project Euler Codespace",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"vscjava.vscode-java-pack", // Java Extension Pack
+				"ms-python.python", // Python Extension
+				// IntelliCode
+				"VisualStudioExptTeam.vscodeintellicode",
+				"VisualStudioExptTeam.intellicode-api-usage-examples",
+				"eamodio.gitlens", // Gitlens
+				"mhutchie.git-graph", // Git Graph
+				"EditorConfig.EditorConfig",
+				"bierner.github-markdown-preview",
+				"vscode-icons-team.vscode-icons"
+			]
+		},
+		"codespaces": {
+			"openFiles": [ "README.md" ]
+		}
+	},
+	"onCreateCommand": ""
+}
