@@ -2,6 +2,7 @@
 	"workbench.colorTheme": "Default Dark Modern",
 	"workbench.iconTheme": "vscode-icons",
 	"files.trimTrailingWhitespace": true,
+	"editor.renderWhitespace": "all",
 	"editor.indentSize": "tabSize",
 	"editor.tabSize": 4,
 	"editor.bracketPairColorization.enabled": true,
