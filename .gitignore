@@ -10,8 +10,5 @@
 # Untracks executable C files
 a.out
 
-# The VS Code config files
-.vscode
-
 # Local History (VS Code extension)
 .history
