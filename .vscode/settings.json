@@ -1,9 +1,9 @@
 {
-	
 	"files.trimTrailingWhitespace": true,
 	"editor.indentSize": "tabSize",
 	"editor.tabSize": 4,
 	"editor.bracketPairColorization.enabled": true,
 	"editor.minimap.scale": 2,
-	"editor.wordWrap": "on"
+	"editor.wordWrap": "on",
+	"workbench.iconTheme": "vscode-icons"
 }
