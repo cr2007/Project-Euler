@@ -1,5 +1,7 @@
 # Project Euler
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/cr2007/Project-Euler)
+
 Problems from the [Project Euler Website](https://projecteuler.net/)
 
 **Project Euler** is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
