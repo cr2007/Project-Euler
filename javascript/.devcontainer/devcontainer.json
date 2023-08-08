@@ -1,5 +1,6 @@
 {
 	"name": "JavaScript Codespace",
+	"image": "mcr.microsoft.com/devcontainers/javascript-node",
 	"customizations": {
 		"vscode": {
 			"extensions": [
@@ -13,12 +14,23 @@
 				"bierner.github-markdown-preview",
 				"vscode-icons-team.vscode-icons",
 				"aaron-bond.better-comments"
-			]
+			],
+			"settings": {
+				"workbench.colorTheme": "Default Dark Modern",
+				"workbench.iconTheme": "vscode-icons",
+				"files.trimTrailingWhitespace": true,
+				"editor.renderWhitespace": "all",
+				"editor.indentSize": "tabSize",
+				"editor.tabSize": 4,
+				"editor.bracketPairColorization.enabled": true,
+				"editor.minimap.scale": 2,
+				"editor.wordWrap": "on"
+			}
 		},
 		"codespaces": {
 			"openFiles": ["README.md"]
 		}
 	},
 	"workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
-	"workspaceFolder": "/workspace"
+	"workspaceFolder": "/javascript"
 }
