@@ -1,0 +1,24 @@
+{
+	"name": "JavaScript Codespace",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				// IntelliCode
+				"VisualStudioExptTeam.vscodeintellicode",
+				"VisualStudioExptTeam.intellicode-api-usage-examples",
+				"eamodio.gitlens", // Gitlens
+				"mhutchie.git-graph", // Git Graph
+				"bierner.github-markdown-preview",
+				"EditorConfig.EditorConfig",
+				"bierner.github-markdown-preview",
+				"vscode-icons-team.vscode-icons",
+				"aaron-bond.better-comments"
+			]
+		},
+		"codespaces": {
+			"openFiles": ["README.md"]
+		}
+	},
+	"workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind",
+	"workspaceFolder": "/workspace"
+}
