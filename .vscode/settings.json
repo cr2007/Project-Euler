@@ -8,4 +8,7 @@
 	"editor.bracketPairColorization.enabled": true,
 	"editor.minimap.scale": 2,
 	"editor.wordWrap": "on",
+	"notebook.output.scrolling": true,
+	"notebook.output.wordWrap": true,
+	"python.analysis.autoImportCompletions": true,
 }
